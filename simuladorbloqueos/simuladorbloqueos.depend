@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1496622441 source:c:\users\terikat\documents\basededatos2\simuladorbloqueos\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<thread>
+	<mutex>
+
